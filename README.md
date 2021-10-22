@@ -1,24 +1,17 @@
 # vue-axios
 
-## Project setup
+a bare minimal use of axios in a vue app
+
+## How to view the app:
+1.
+```
+gh repo clone tomashco/vue-axios
+```
+2.
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
+3.
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
